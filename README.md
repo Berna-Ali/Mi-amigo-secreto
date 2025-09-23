@@ -13,7 +13,7 @@
 1. Agregar Nombres. Se escribe el nombre de un amigo en un campo de texto y se agregara a una lista visible al hacer click en el boton "Añadir"
 
 
-2. Validar entraday nombres duplicados. Si el campo de texto esta vacio, se mostrara una alerta pidiendo un nombre valido; adicional si se intenta agregar un nombre duplicado, se emite alerta informando la duplicidad.
+2. Validar entrada y nombres duplicados. Si el campo de texto esta vacio, se mostrara una alerta pidiendo un nombre valido; adicional si se intenta agregar un nombre duplicado, se emite alerta informando la duplicidad.
 
 
 3. Visualizar la lista. Los nombres ingresados aparecen en una lista debajo del campo de entrada.
