@@ -37,10 +37,9 @@ Visual Studio Code:
 # Hecho con cariño por:
 ## Bernardo Alí Martínez Díaz
 
-###Likedin: www.linkedin.com/in/bernardo-alí-martínez-díaz-759a91385
+Para probar el juego.
+https://mi-amigo-secreto-seven.vercel.app/
 
-
-
-##  Sugerencias 💡
+# Sugerencias 💡
 
 Mándame un email a: opium0dreams@gmail.com 
